@@ -1,0 +1,18 @@
+{
+	"installed_packages":
+	[
+		"Function Name Display",
+		"Phpcs",
+		"PhpDoc",
+		"PlainTasks",
+		"SideBarEnhancements",
+		"sublime-github",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"Terminal",
+		"TrailingSpaces",
+		"VCS Gutter",
+		"Xdebug Client"
+	]
+}
